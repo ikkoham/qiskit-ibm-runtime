@@ -14,7 +14,6 @@ coverage>=6.3
 pylatexenc
 mthree
 scikit-learn
-ddt>=1.2.0,!=1.4.0,!=1.4.3
 
 # Documentation
 nbsphinx
